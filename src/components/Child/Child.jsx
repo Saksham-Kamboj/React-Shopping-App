@@ -1,13 +1,13 @@
 import React from "react";
-import Img1 from "../../assets/child/child1.png";
-import Img2 from "../../assets/child/child2.png";
-import Img3 from "../../assets/child/child3.png";
-import Img4 from "../../assets/child/child4.png";
-import Img5 from "../../assets/child/child5.png";
-import Img6 from "../../assets/child/child6.png";
-import Img7 from "../../assets/child/child7.png";
-import Img8 from "../../assets/child/child8.png";
-import Img9 from "../../assets/child/child9.png";
+import Img1 from "../../assetss/child/child1.png";
+import Img2 from "../../assetss/child/child2.png";
+import Img3 from "../../assetss/child/child3.png";
+import Img4 from "../../assetss/child/child4.png";
+import Img5 from "../../assetss/child/child5.png";
+import Img6 from "../../assetss/child/child6.png";
+import Img7 from "../../assetss/child/child7.png";
+import Img8 from "../../assetss/child/child8.png";
+import Img9 from "../../assetss/child/child9.png";
 import { FaStar } from "react-icons/fa";
 
 const ProductsData = [

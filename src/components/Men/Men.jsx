@@ -1,13 +1,13 @@
 import React from "react";
-import Img1 from "../../assets/shirt/shirt.png";
-import Img2 from "../../assets/shirt/shirt2.png";
-import Img3 from "../../assets/shirt/shirt3.png";
-import Img4 from "../../assets/shirt/shirt4.png";
-import Img5 from "../../assets/shirt/shirt5.png";
-import Img6 from "../../assets/shirt/shirt6.png";
-import Img7 from "../../assets/shirt/shirt7.png";
-import Img8 from "../../assets/shirt/shirt8.png";
-import Img9 from "../../assets/shirt/shirt9.png";
+import Img1 from "../../assetss/shirt/shirt.png";
+import Img2 from "../../assetss/shirt/shirt2.png";
+import Img3 from "../../assetss/shirt/shirt3.png";
+import Img4 from "../../assetss/shirt/shirt4.png";
+import Img5 from "../../assetss/shirt/shirt5.png";
+import Img6 from "../../assetss/shirt/shirt6.png";
+import Img7 from "../../assetss/shirt/shirt7.png";
+import Img8 from "../../assetss/shirt/shirt8.png";
+import Img9 from "../../assetss/shirt/shirt9.png";
 import { FaStar } from "react-icons/fa";
 
 const ProductsData = [
