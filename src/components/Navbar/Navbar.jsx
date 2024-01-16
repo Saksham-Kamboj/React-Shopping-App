@@ -26,11 +26,11 @@ const Menu = [
     name: "Mens Wear",
     link: "/#",
   },
-  {
-    id: 3,
-    name: "Electronics",
-    link: "/#",
-  },
+  // {
+  //   id: 3,
+  //   name: "Electronics",
+  //   link: "/#",
+  // },
 ];
 
 const DropdownLinks = [
